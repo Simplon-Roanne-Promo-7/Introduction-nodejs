@@ -62,4 +62,4 @@ https://expressjs.com/en/guide/error-handling.html
 
 # Mini TP : Marvel CRUD
 
-[Clickez ici pour la suite](./TP-marvel-crud.md)
+[Clickez ici pour la suite](./TP-marvel-CRUD.md)
