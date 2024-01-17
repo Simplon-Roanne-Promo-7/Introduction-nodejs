@@ -47,7 +47,7 @@ Lisez la documentation pour vous aider : https://expressjs.com/en/starter/basic-
 > Lorsque vous modifiez le code, il faut relancer le serveur en faisant CTRL+C dans le terminal et relancer `node index.js`
 > Vous pouvez aussi installer le paquet nodemon qui permet de relancer automatiquement le serveur à chaque modification du code.
 
-## Ajoutons une route POST avec un formulaire
+## 5. Ajoutons une route POST avec un formulaire
 
 Créez une route GET qui aura pour adresse "/mon-formulaire" donc qui donnera l'url `http://localhost:3000/mon-formulaire`.
 Cette route doit afficher un formulaire HTML avec un champ texte et un bouton submit.
