@@ -11,7 +11,7 @@ L'installeur spécial Windows installe à la fois NodeJS et NPM.
 
 L'installation de NodeJS va ajouter la commande `node` dans Powershell et Vscode.
 
-NPM permet d'ajouter des librairies, que l'on appelle 'paquets' et qui finirons dans vos dossiers 'node modules', c'est la même chose que le vendor de php.
+NPM permet d'ajouter des librairies, que l'on appelle 'paquets' et qui finirons dans vos dossiers 'node modules', c'est la même chose que le vendor des projets php.
 
 Vérifiez l'installation avec `node -v` et `npm -v` dans un terminal pour afficher les versions installées.
 
