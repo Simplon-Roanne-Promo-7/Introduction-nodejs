@@ -15,7 +15,7 @@ NPM permet d'ajouter des librairies, que l'on appelle 'paquets' et qui finirons 
 
 Vérifiez l'installation avec `node -v` et `npm -v` dans un terminal pour afficher les versions installées.
 
-## 2. Initialisayion du projet
+## 2. Initialisation du projet
 
 Ouvrez un nouveau dossier vide dans VSCode.
 Dans le terminal, tapez la commande : `npm init` et suivez les instructions pour créer un fichier `package.json`.
